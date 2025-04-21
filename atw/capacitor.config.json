@@ -1,0 +1,10 @@
+{
+  "appId": "net.aroundtheworld.app",
+  "appName": "Around The World",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
